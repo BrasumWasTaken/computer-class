@@ -1,0 +1,5 @@
+Pygame
+os
+tkinter
+cmd
+_thread
