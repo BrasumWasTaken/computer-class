@@ -4,3 +4,5 @@ time than I had hoped it would. In the end, I decided to scrap the C# build and 
 That said however, there is still some stuff that made the cut, namely the profile system. I managed to get the 
 framework implimented, however it lacks a way to modify it outside just opening the file in Notepad, but I still
 consider that half points. 
+
+Running the thing is pretty simple, and it should just launch from running main.py.
